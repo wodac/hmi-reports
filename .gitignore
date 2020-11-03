@@ -3,3 +3,4 @@ service/.env
 /.publish
 /.vscode
 debug.log
+service/amsort-hmi-reports-credencials.json
