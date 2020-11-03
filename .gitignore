@@ -1,0 +1,5 @@
+tabs/.env
+service/.env
+/.publish
+/.vscode
+debug.log
